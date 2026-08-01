@@ -1,0 +1,11 @@
+Sintaxe da CLI:
+
+--character "C:\imagens\heroina.png::protagonist::dramatic_turn::Heroina"
+--character "C:\imagens\vocalista.png::vocalist::sing::Vocalista"
+--character "C:\imagens\android.png::hologram::hologram::Entidade"
+
+PAPÉIS:
+protagonist, support, antagonist, vocalist, performer, hologram, crowd, android, creature
+
+MOVIMENTOS:
+auto, idle, stare, sway, dance, sing, walk, run, dramatic_turn, levitate, glitch, hologram
